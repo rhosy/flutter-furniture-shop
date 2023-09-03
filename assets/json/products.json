@@ -1,0 +1,50 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Irul Chair",
+        "image":"https://images.unsplash.com/photo-1580480055273-228ff5388ef8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+        "price":"$102.00",
+        "created_by": "by Seto",
+        "description": "Ergonomical for humans body curve",
+        "isFavourite": true
+      },
+      
+      {
+        "id": "2",
+        "name": "Malik Chair",
+        "image":"https://images.unsplash.com/photo-1592078615290-033ee584e267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+        "price":"$221.00",
+        "created_by": "by Karjo",
+        "description": "Extra comfy chair with a palm rest",
+        "isFavourite": false
+      },
+      {
+        "id": "3",
+        "name": "Seto Chair",
+        "image":"https://images.unsplash.com/photo-1586158291800-2665f07bba79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNoYWlyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+        "price":"$120.00",
+        "created_by": "by Widji",
+        "description": "Ergonomical for humans body curve",
+        "isFavourite": false
+      },
+      {
+        "id": "4",
+        "name": "Jaya Chair",
+        "image":"https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNoYWlyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+        "price":"$230.00",
+        "created_by": "by Cahyo",
+        "description": "Extra comfy chair with a palm rest",
+        "isFavourite": false
+      },
+      {
+        "id": "5",
+        "name": "Soft Chair",
+        "image":"https://plus.unsplash.com/premium_photo-1680112806039-244731d88d45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGNoYWlyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+        "price":"$400.00",
+        "created_by": "by Wahyu",
+        "description": "Extra soft chair with a palm rest",
+        "isFavourite": false
+      }
+    ]
+  }
